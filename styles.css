@@ -1,17 +1,18 @@
 body{
 	background-color: #EFF6fF;
-	align-content: center;
 }
 .telo{
-	
+	margin-bottom: 5%;
+	margin-left:10%;
+	margin-right: 10%;
 }
 img{
 	float: left;
-	width: 45%;
+	width: 40%;
 }
 .menu{
 	background-color:#eee;
-	width: 45%;
+	width: 40%;
 	float: left;
 }
 .fb{
