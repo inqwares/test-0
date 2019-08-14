@@ -2,26 +2,46 @@ body{
 	background-color: #EFF6fF;
 }
 .telo{
-	margin-bottom: 5%;
-	margin-left:10%;
-	margin-right: 10%;
+	margin: 5%;
 }
 img{
 	float: left;
-	width: 40%;
+	width: 50%;
 }
 .menu{
 	background-color:#eee;
-	width: 40%;
-	float: left;
+	width: 50%;
+	float: right;
+}
+.info{
+	padding: 0 10% 0 10%;
 }
 .fb{
 	background-color: #255a9B;
+	width: 45%;
+	margin-right: 5%
 }
 .ln{
 	background-color: #0076b6;
+	width: 45%;
+	
+}
+.or{
+	margin: 0 50%;
 }
 .cont{
-	margin-top: 30px;
+	margin-top: 20px;
 	background-color: #fff;
+	color:#7B8A92;
+	border-radius: 3px;
 }
+.agree{color:#7B8A92}
+input[type=submit]{
+	background-color: #3698FB;
+	color:#fff;
+	width: 50%;
+	height: 3em;
+	border-radius: 5px;
+	margin-top: 10%;
+}
+a{color:#3698FB}
