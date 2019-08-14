@@ -1,0 +1,26 @@
+body{
+	background-color: #EFF6fF;
+	align-content: center;
+}
+.telo{
+	
+}
+img{
+	float: left;
+	width: 45%;
+}
+.menu{
+	background-color:#eee;
+	width: 45%;
+	float: left;
+}
+.fb{
+	background-color: #255a9B;
+}
+.ln{
+	background-color: #0076b6;
+}
+.cont{
+	margin-top: 30px;
+	background-color: #fff;
+}
