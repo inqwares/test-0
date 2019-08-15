@@ -2,16 +2,19 @@ body{
 	background-color: #EFF6fF;
 }
 .telo{
-	margin: 5%;
+	margin: 5vh;
 }
 img{
 	float: left;
-	width: 50%;
+	height: 90vh;
 }
 .menu{
 	background-color:#eee;
-	width: 50%;
-	float: right;
+	border: 20px solid black;
+/*	width: 10vw;*/
+	height: 80vh;
+	margin 
+	
 }
 .info{
 	padding: 0 10% 0 10%;
