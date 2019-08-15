@@ -1,36 +1,55 @@
+@font-face{
+	font-family:Barlow;
+	src:url(fonts/barlow/Barlow-Medium.otf);
+	
+}
 body{
 	background-color: #EFF6fF;
+	font-family: Barlow;
+	color: #2A4A5C;
 }
 .telo{
 	margin: 5vh;
+	display: inline-block;
 }
 img{
 	float: left;
-	height: 90vh;
+/*	height: 90vh;*/
+	width: 50%;
 }
 .menu{
 	background-color:#eee;
-	border: 20px solid black;
-/*	width: 10vw;*/
-	height: 80vh;
-	margin 
+/*	border: 0.5vw solid black;*/
+	float: right;
+	width:50%;
+/*	height: 80vh;*/
+/*	margin: 0 auto 0 400px;*/
 	
 }
 .info{
 	padding: 0 10% 0 10%;
+	
+}
+.soc button{
+	width: 45%;
+	height: 3em;
+	color: #fff;
 }
 .fb{
 	background-color: #255a9B;
-	width: 45%;
 	margin-right: 5%
 }
 .ln{
 	background-color: #0076b6;
-	width: 45%;
-	
 }
 .or{
 	margin: 0 50%;
+}
+.login{
+	height: 2em;
+}
+.pass{
+	height: 2em;
 }
 .cont{
 	margin-top: 20px;
